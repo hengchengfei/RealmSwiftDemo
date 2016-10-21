@@ -23,7 +23,7 @@
 
 
 ## 描述
-![输入图片说明](http://git.oschina.net/uploads/images/2016/1020/165052_ca274cf8_302364.png "")
+http://git.oschina.net/uploads/images/2016/1020/165052_ca274cf8_302364.png
 
 
 ## Communication
