@@ -11,6 +11,7 @@ DerivedData/
 
 ## Various settings
 >>>>>>> 088467fb504df1ed3932b02bc61df7468692efd8
+.DS_Store
 *.pbxuser
 !default.pbxuser
 *.mode1v3
